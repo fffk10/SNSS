@@ -35,6 +35,7 @@
 		"@fortawesome/free-brands-svg-icons": "^6.4.2",
 		"@fortawesome/free-solid-svg-icons": "^6.4.2",
 		"axios": "^1.5.0",
+		"firebase": "^10.4.0",
 		"google-auth-library": "^9.0.0",
 		"googleapis": "^126.0.1",
 		"svelte-fa": "^3.0.4"
